@@ -1,5 +1,7 @@
 # SvgIcon plugin for CakePHP 4.x
 
+![Build Status](https://github.com/loadsys/cakephp-svg-icon/actions/workflows/ci.yml/badge.svg?branch=main)
+
 This plugin offers an easy way to display SVG icons, with options to customize and/or cache them. It's packaged as a trait that can be used anywhere in your app, with a helper (using the trait) for convenience and caching.
 
 ## Installation
@@ -45,7 +47,7 @@ This example would use the `svg_icon` cache config, which can be set in `config/
 ]
 ```
 
-### Usage
+## Usage
 
 Configured icons can be displayed by name - here's an example based on the names used in the sample `config/app_svg_icon.php`.
 
