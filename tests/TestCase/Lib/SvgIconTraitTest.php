@@ -55,7 +55,7 @@ class SvgIconTraitTest extends TestCase
      *
      * @return array
      */
-    public function provideGet(): array
+    public static function provideGet(): array
     {
         return SvgIconTraitTest::getProvider();
     }

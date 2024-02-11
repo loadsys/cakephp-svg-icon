@@ -19,7 +19,7 @@ class SvgIconHelper extends Helper
      *
      * @var array<string, mixed>
      */
-    protected $_defaultConfig = [];
+    protected array $_defaultConfig = [];
 
     /**
      * Icon getter and modifier (if $options exist).
