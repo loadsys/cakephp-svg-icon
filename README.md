@@ -1,4 +1,4 @@
-# SvgIcon plugin for CakePHP 4.x
+# SvgIcon plugin for CakePHP 5.x
 
 ![Build Status](https://github.com/loadsys/cakephp-svg-icon/actions/workflows/ci.yml/badge.svg?branch=main)
 
@@ -13,6 +13,11 @@ The recommended way to install composer packages is:
 ```
 composer require loadsys/cakephp-svg-icon
 ```
+
+## Versions
+
+* Tags `1.x` are for CakePHP v4.x.
+* Tags `2.x` are for CakePHP v5.x.
 
 ## Configuration
 
